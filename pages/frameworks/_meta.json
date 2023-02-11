@@ -1,4 +1,5 @@
 {
+  "astro": "Astro",
   "react": "React.js",
   "vue": "Vue.js",
   "svelte": "Svelte.js"
