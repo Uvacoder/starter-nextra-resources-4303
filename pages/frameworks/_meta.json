@@ -1,5 +1,6 @@
 {
   "astro": "Astro",
+  "nuxt": "Nuxt.js",
   "react": "React.js",
   "vue": "Vue.js",
   "svelte": "Svelte.js"
