@@ -5,5 +5,10 @@
     "title": "A Separator"
   },
   "frameworks": "JS Frameworks & Libs",
+  "--": {
+    "type": "separator",
+    "title": "A Separator"
+  },
+  "guides": "Guides",
   "about": "About"
 }
